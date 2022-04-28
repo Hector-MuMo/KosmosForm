@@ -1,0 +1,13 @@
+.field-to-add {
+    text-align: center;
+    padding: 5px;
+    border: 2px solid #181715;
+    border-radius: 10px;
+    font-weight: 600;
+    background-color: #181715;
+    color: #EBD115;
+}
+
+.field-to-add:hover {
+    cursor: pointer;
+}

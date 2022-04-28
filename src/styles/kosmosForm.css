@@ -1,0 +1,58 @@
+.kosmos-form {
+    display: flex;
+    height: 100%;
+}
+
+.fields-section {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #EBD115;
+    color: #181715;
+}
+
+.form-section {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #181715;
+    color: #EBD115;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.container-form {
+    padding: 20px;
+    background-color: #ffffff10;
+    border-radius: 5px;
+}
+
+.form label, input, select {
+    padding: 3px;
+    margin: 5px;
+   
+}
+
+.form input[type=submit]{
+    max-width: 80px;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px;
+    margin: auto;
+    margin-top: 15px;
+    border: 0;
+    border-radius: 5px;
+    background-color: #EBD115;
+    color: #181715;
+}
+
+
+

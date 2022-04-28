@@ -1,0 +1,29 @@
+ {
+     "fields": [
+        {
+            "component": "text",
+            "label": "Nombre",
+            "type": "text",
+            "id": 1
+        },
+        {
+            "component": "text",
+            "label": "Apellidos",
+            "type": "text",
+            "id": 2
+        },
+         {
+            "component": "select",
+            "label": "Genero",
+            "type": "select",
+            "id": 3
+        },
+         {
+            "component": "radio",
+            "label": "País",
+            "type": "radio",
+            "id": 4
+        }
+     ]
+
+}

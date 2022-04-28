@@ -1,9 +1,8 @@
-import React, { useState } from 'react'
+import React from 'react'
 import fieldsArray from '../fields.json'
 import '../styles/fields.css'
 
 const Fields = ({ onChangeName }) => {
-    const [isSelected, setIsSelected] = useState(false);
 
     const onChangeSelection = (id, e) => {
 
